@@ -1,0 +1,566 @@
+fileFormatVersion: 2
+guid: 8f5180a894a3f428fa2a85610952bdc4
+timeCreated: 1491360057
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tree1spritesheet_0
+    21300002: tree1spritesheet_1
+    21300004: tree1spritesheet_2
+    21300006: tree1spritesheet_3
+    21300008: tree1spritesheet_4
+    21300010: tree1spritesheet_5
+    21300012: tree1spritesheet_6
+    21300014: tree1spritesheet_7
+    21300016: tree1spritesheet_8
+    21300018: tree1spritesheet_9
+    21300020: tree1spritesheet_10
+    21300022: tree1spritesheet_11
+    21300024: tree1spritesheet_12
+    21300026: tree1spritesheet_13
+    21300028: tree1spritesheet_14
+    21300030: tree1spritesheet_15
+    21300032: tree1spritesheet_16
+    21300034: tree1spritesheet_17
+    21300036: tree1spritesheet_18
+    21300038: tree1spritesheet_19
+    21300040: tree1spritesheet_20
+    21300042: tree1spritesheet_21
+    21300044: tree1spritesheet_22
+    21300046: tree1spritesheet_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: tree1spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1301
+        width: 282
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 76.90842, y: 67.67047}
+        - {x: 39.908417, y: 81.67047}
+        - {x: -58.091583, y: 81.67047}
+        - {x: -76.09158, y: 63.67047}
+        - {x: -76.09158, y: 4.670471}
+        - {x: -39.091583, y: -23.329529}
+        - {x: -31.091583, y: -81.32953}
+        - {x: 12.908417, y: -81.32953}
+        - {x: 13.908417, y: -80.32953}
+        - {x: 76.90842, y: 18.670471}
+    - name: tree1spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1303
+        width: 283
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 77.74736, y: 49.748413}
+        - {x: 67.74736, y: 63.748413}
+        - {x: 43.74736, y: 81.74841}
+        - {x: -26.25264, y: 81.74841}
+        - {x: -56.25264, y: 77.74841}
+        - {x: -74.25264, y: 46.748413}
+        - {x: -76.25264, y: 38.748413}
+        - {x: -76.25264, y: 7.748413}
+        - {x: -38.25264, y: -79.25159}
+        - {x: -35.25264, y: -81.25159}
+        - {x: 10.74736, y: -81.25159}
+        - {x: 11.74736, y: -79.25159}
+        - {x: 69.74736, y: 12.748413}
+        - {x: 77.74736, y: 27.748413}
+    - name: tree1spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1303
+        width: 284
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49.547363, y: 81.74841}
+        - {x: -50.452637, y: 81.74841}
+        - {x: -58.452637, y: 80.74841}
+        - {x: -76.45264, y: 42.748413}
+        - {x: -76.45264, y: -17.251587}
+        - {x: -46.452637, y: -80.25159}
+        - {x: -44.452637, y: -81.25159}
+        - {x: 10.547363, y: -81.25159}
+        - {x: 11.547363, y: -80.25159}
+        - {x: 77.54736, y: 16.748413}
+        - {x: 77.54736, y: 56.748413}
+    - name: tree1spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1303
+        width: 284
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.574768, y: 81.74841}
+        - {x: -76.57477, y: 56.748413}
+        - {x: -76.57477, y: -13.251587}
+        - {x: -59.574768, y: -81.25159}
+        - {x: 33.425232, y: -81.25159}
+        - {x: 77.42523, y: -42.251587}
+        - {x: 77.42523, y: 73.74841}
+        - {x: 48.425232, y: 81.74841}
+    - name: tree1spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 1303
+        width: 283
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.23584, y: 81.74841}
+        - {x: -59.23584, y: 79.74841}
+        - {x: -76.23584, y: 55.748413}
+        - {x: -76.23584, y: -48.251587}
+        - {x: -58.23584, y: -81.25159}
+        - {x: 12.76416, y: -81.25159}
+        - {x: 77.76416, y: 24.748413}
+        - {x: 77.76416, y: 50.748413}
+        - {x: 51.76416, y: 81.74841}
+    - name: tree1spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 992
+        width: 284
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.435791, y: 82.63574}
+        - {x: -76.43579, y: 67.63574}
+        - {x: -76.43579, y: 5.635742}
+        - {x: -58.43579, y: -9.364258}
+        - {x: -40.43579, y: -81.36426}
+        - {x: 14.564209, y: -81.36426}
+        - {x: 77.56421, y: 20.635742}
+        - {x: 77.56421, y: 56.635742}
+        - {x: 54.56421, y: 82.63574}
+    - name: tree1spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 992
+        width: 286
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.864197, y: 81.63574}
+        - {x: 42.864197, y: 82.63574}
+        - {x: -35.135803, y: 82.63574}
+        - {x: -77.1358, y: 59.635742}
+        - {x: -77.1358, y: -3.3642578}
+        - {x: -50.135803, y: -81.36426}
+        - {x: 14.864197, y: -81.36426}
+        - {x: 77.8642, y: 26.635742}
+        - {x: 77.8642, y: 52.635742}
+        - {x: 68.8642, y: 63.635742}
+    - name: tree1spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 992
+        width: 285
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 71.125244, y: 82.63574}
+        - {x: -38.874756, y: 82.63574}
+        - {x: -76.874756, y: 70.63574}
+        - {x: -76.874756, y: -16.364258}
+        - {x: -39.874756, y: -76.36426}
+        - {x: -33.874756, y: -81.36426}
+        - {x: 5.125244, y: -81.36426}
+        - {x: 9.125244, y: -79.36426}
+        - {x: 8.125244, y: -74.36426}
+        - {x: 78.125244, y: 17.635742}
+        - {x: 78.125244, y: 64.63574}
+    - name: tree1spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 992
+        width: 284
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60.574768, y: 82.63574}
+        - {x: -76.57477, y: 44.635742}
+        - {x: -76.57477, y: -11.364258}
+        - {x: -32.574768, y: -81.36426}
+        - {x: 15.425232, y: -81.36426}
+        - {x: 77.42523, y: 21.635742}
+        - {x: 77.42523, y: 56.635742}
+        - {x: 52.425232, y: 82.63574}
+    - name: tree1spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 992
+        width: 283
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.27478, y: 82.63574}
+        - {x: -76.27478, y: 69.63574}
+        - {x: -76.27478, y: -37.364258}
+        - {x: -56.27478, y: -81.36426}
+        - {x: 40.72522, y: -81.36426}
+        - {x: 76.72522, y: 13.635742}
+        - {x: 76.72522, y: 82.63574}
+    - name: tree1spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 682
+        width: 284
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61.486313, y: 82.5621}
+        - {x: -40.513687, y: 82.5621}
+        - {x: -76.51369, y: 64.5621}
+        - {x: -76.51369, y: -7.4378967}
+        - {x: -33.513687, y: -81.4379}
+        - {x: 8.486313, y: -81.4379}
+        - {x: 11.486313, y: -80.4379}
+        - {x: 77.48631, y: 8.562103}
+        - {x: 77.48631, y: 68.5621}
+    - name: tree1spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 682
+        width: 283
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54.74736, y: 82.5621}
+        - {x: -76.25264, y: 82.5621}
+        - {x: -76.25264, y: -81.4379}
+        - {x: 10.74736, y: -81.4379}
+        - {x: 13.74736, y: -80.4379}
+        - {x: 77.74736, y: 10.562103}
+        - {x: 77.74736, y: 59.562103}
+        - {x: 75.74736, y: 67.5621}
+    - name: tree1spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 682
+        width: 282
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.047363, y: 82.5621}
+        - {x: -38.952637, y: 82.5621}
+        - {x: -75.95264, y: 55.562103}
+        - {x: -75.95264, y: 11.562103}
+        - {x: -52.952637, y: -11.437897}
+        - {x: -31.952637, y: -75.4379}
+        - {x: -29.952637, y: -81.4379}
+        - {x: 14.047363, y: -81.4379}
+        - {x: 77.04736, y: 22.562103}
+        - {x: 77.04736, y: 47.562103}
+        - {x: 71.04736, y: 63.562103}
+    - name: tree1spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 683
+        width: 282
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49.76947, y: 81.60104}
+        - {x: -19.23053, y: 81.60104}
+        - {x: -66.23053, y: 67.60104}
+        - {x: -76.23053, y: 58.601044}
+        - {x: -76.23053, y: -12.398956}
+        - {x: -66.23053, y: -44.398956}
+        - {x: -34.23053, y: -81.39896}
+        - {x: 11.76947, y: -81.39896}
+        - {x: 76.76947, y: 14.601044}
+        - {x: 76.76947, y: 57.601044}
+    - name: tree1spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 682
+        width: 282
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69.96948, y: 82.5621}
+        - {x: -75.96948, y: 79.5621}
+        - {x: -75.96948, y: -81.4379}
+        - {x: 17.030518, y: -81.4379}
+        - {x: 77.03052, y: 8.562103}
+        - {x: 77.03052, y: 73.5621}
+        - {x: 41.030518, y: 82.5621}
+    - name: tree1spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 372
+        width: 281
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47.33052, y: 82.48842}
+        - {x: -10.669479, y: 82.48842}
+        - {x: -57.66948, y: 72.48842}
+        - {x: -75.66948, y: 50.48842}
+        - {x: -75.66948, y: 1.4884186}
+        - {x: -39.66948, y: -17.511581}
+        - {x: -32.66948, y: -81.51158}
+        - {x: 7.3305206, y: -81.51158}
+        - {x: 14.330521, y: -79.51158}
+        - {x: 76.33052, y: 13.488419}
+        - {x: 76.33052, y: 48.48842}
+        - {x: 67.33052, y: 69.48842}
+    - name: tree1spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 372
+        width: 282
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75.90843, y: 82.48842}
+        - {x: -75.90843, y: -45.51158}
+        - {x: -61.908432, y: -81.51158}
+        - {x: 21.091568, y: -81.51158}
+        - {x: 62.091568, y: -54.51158}
+        - {x: 77.09157, y: -1.5115814}
+        - {x: 77.09157, y: 82.48842}
+    - name: tree1spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 372
+        width: 282
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61.18634, y: 82.48842}
+        - {x: -65.18634, y: 81.48842}
+        - {x: -76.18634, y: 51.48842}
+        - {x: -76.18634, y: -15.511581}
+        - {x: -34.18634, y: -78.51158}
+        - {x: -29.18634, y: -81.51158}
+        - {x: 16.81366, y: -81.51158}
+        - {x: 76.81366, y: 22.488419}
+        - {x: 76.81366, y: 58.48842}
+        - {x: 44.81366, y: 82.48842}
+    - name: tree1spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 372
+        width: 280
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69.34741, y: 82.48842}
+        - {x: -75.34741, y: 58.48842}
+        - {x: -75.34741, y: -26.511581}
+        - {x: -42.347412, y: -81.51158}
+        - {x: 26.652588, y: -81.51158}
+        - {x: 76.65259, y: 11.488419}
+        - {x: 76.65259, y: 58.48842}
+        - {x: 48.652588, y: 82.48842}
+    - name: tree1spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 372
+        width: 282
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76.047424, y: 82.48842}
+        - {x: -76.047424, y: -30.511581}
+        - {x: -45.047424, y: -81.51158}
+        - {x: 21.952576, y: -81.51158}
+        - {x: 76.952576, y: -3.5115814}
+        - {x: 76.952576, y: 81.48842}
+        - {x: 75.952576, y: 82.48842}
+    - name: tree1spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 62
+        width: 282
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.247368, y: 82.414734}
+        - {x: -60.247368, y: 74.414734}
+        - {x: -76.24737, y: 57.414734}
+        - {x: -76.24737, y: -6.585266}
+        - {x: -28.247368, y: -81.585266}
+        - {x: 19.752632, y: -81.585266}
+        - {x: 76.75263, y: -2.585266}
+        - {x: 76.75263, y: 62.414734}
+        - {x: 38.752632, y: 82.414734}
+    - name: tree1spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 62
+        width: 282
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60.908432, y: 81.914734}
+        - {x: -63.908432, y: 80.914734}
+        - {x: -75.90843, y: 69.914734}
+        - {x: -75.90843, y: -47.085266}
+        - {x: -57.908432, y: -81.085266}
+        - {x: 20.091568, y: -81.085266}
+        - {x: 77.09157, y: 6.914734}
+        - {x: 77.09157, y: 53.914734}
+        - {x: 62.091568, y: 81.914734}
+    - name: tree1spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 62
+        width: 282
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76.03055, y: -26.085266}
+        - {x: -56.03055, y: -81.085266}
+        - {x: 21.969452, y: -81.085266}
+        - {x: 76.96945, y: -6.085266}
+        - {x: 76.96945, y: 58.914734}
+        - {x: 58.96945, y: 81.914734}
+        - {x: -54.03055, y: 81.914734}
+        - {x: -64.03055, y: 79.914734}
+        - {x: -76.03055, y: 46.914734}
+    - name: tree1spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 62
+        width: 282
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76.23053, y: 81.914734}
+        - {x: -76.23053, y: -58.085266}
+        - {x: -66.23053, y: -81.085266}
+        - {x: 10.76947, y: -81.085266}
+        - {x: 13.76947, y: -80.085266}
+        - {x: 76.76947, y: -2.085266}
+        - {x: 76.76947, y: 73.914734}
+        - {x: 66.76947, y: 81.914734}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

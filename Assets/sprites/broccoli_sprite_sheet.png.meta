@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: a03cabd28f6a84868ba14a31ec2ddf6d
+timeCreated: 1489889211
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: broccoli_sprite_sheet_0
+    21300002: broccoli_sprite_sheet_1
+    21300004: broccoli_sprite_sheet_2
+    21300006: broccoli_sprite_sheet_3
+    21300008: broccoli_sprite_sheet_4
+    21300010: broccoli_sprite_sheet_5
+    21300012: broccoli_sprite_sheet_6
+    21300014: broccoli_sprite_sheet_7
+    21300016: broccoli_sprite_sheet_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: broccoli_sprite_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 744
+        width: 258
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 88, y: 122}
+        - {x: 35, y: 133}
+        - {x: -61, y: 133}
+        - {x: -109, y: 101}
+        - {x: -129, y: 64}
+        - {x: -129, y: -5}
+        - {x: -90, y: -32}
+        - {x: -70, y: -40}
+        - {x: -75, y: -100}
+        - {x: -42, y: -108}
+        - {x: -18, y: -132}
+        - {x: 40, y: -132}
+        - {x: 60, y: -70}
+        - {x: 129, y: -16}
+        - {x: 129, y: 77}
+    - name: broccoli_sprite_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 748
+        width: 249
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57.5, y: 134}
+        - {x: -82.5, y: 134}
+        - {x: -124.5, y: 116}
+        - {x: -124.5, y: -26}
+        - {x: -117.5, y: -61}
+        - {x: -108.5, y: -81}
+        - {x: -84.5, y: -72}
+        - {x: -74.5, y: -57}
+        - {x: -73.5, y: -53}
+        - {x: -74.5, y: -57}
+        - {x: -88.5, y: -98}
+        - {x: -91.5, y: -115}
+        - {x: -59.5, y: -134}
+        - {x: -28.5, y: -134}
+        - {x: -26.5, y: -133}
+        - {x: 72.5, y: -111}
+        - {x: 124.5, y: -50}
+        - {x: 124.5, y: 76}
+    - name: broccoli_sprite_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 770
+        width: 256
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -85.5}
+        - {x: 1, y: -86.5}
+        - {x: 11, y: -84.5}
+        - {x: 12, y: -97.5}
+        - {x: 13, y: -105.5}
+        - {x: 25, y: -119.5}
+        - {x: 56, y: -123.5}
+        - {x: 72, y: -123.5}
+        - {x: 127, y: -74.5}
+        - {x: 128, y: -69.5}
+        - {x: 128, y: 23.5}
+        - {x: 59, y: 123.5}
+        - {x: -91, y: 123.5}
+        - {x: -128, y: 59.5}
+        - {x: -128, y: -49.5}
+        - {x: -127, y: -49.5}
+        - {x: -102, y: -44.5}
+        - {x: -93, y: -40.5}
+        - {x: -89, y: -36.5}
+        - {x: -87, y: -31.5}
+        - {x: -87, y: -28.5}
+        - {x: -86, y: -33.5}
+        - {x: -91, y: -38.5}
+        - {x: -95, y: -41.5}
+        - {x: -128, y: -77.5}
+        - {x: -128, y: -86.5}
+        - {x: -104, y: -123.5}
+        - {x: -49, y: -123.5}
+        - {x: 6, y: -107.5}
+        - {x: 6, y: -93.5}
+    - name: broccoli_sprite_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 447
+        width: 252
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66, y: 132}
+        - {x: 46, y: 134}
+        - {x: -99, y: 134}
+        - {x: -126, y: 106}
+        - {x: -126, y: -29}
+        - {x: -109, y: -88}
+        - {x: -88, y: -71}
+        - {x: -76, y: -57}
+        - {x: -75, y: -54}
+        - {x: -75, y: -50}
+        - {x: -75, y: -54}
+        - {x: -76, y: -59}
+        - {x: -79, y: -61}
+        - {x: -91, y: -105}
+        - {x: -88, y: -115}
+        - {x: -64, y: -134}
+        - {x: -27, y: -134}
+        - {x: 77, y: -87}
+        - {x: 126, y: -50}
+        - {x: 126, y: 54}
+    - name: broccoli_sprite_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 444
+        width: 260
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67, y: -34}
+        - {x: 63, y: -35}
+        - {x: 66, y: -31}
+        - {x: 70, y: -23}
+        - {x: 69, y: -23}
+        - {x: 70, y: -25}
+        - {x: 86, y: -40}
+        - {x: 113, y: -31}
+        - {x: 129, y: -11}
+        - {x: 130, y: -10}
+        - {x: 130, y: 69}
+        - {x: 120, y: 105}
+        - {x: 80, y: 118}
+        - {x: 40, y: 133}
+        - {x: -84, y: 133}
+        - {x: -130, y: 87}
+        - {x: -130, y: -53}
+        - {x: -80, y: -111}
+        - {x: -45, y: -105}
+        - {x: -34, y: -86}
+        - {x: -33, y: -77}
+        - {x: -32, y: -71}
+        - {x: -32, y: -68}
+        - {x: -31, y: -79}
+        - {x: -35, y: -126}
+        - {x: -17, y: -133}
+        - {x: 42, y: -133}
+        - {x: 85, y: -44}
+        - {x: 75, y: -34}
+    - name: broccoli_sprite_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 456
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 82, y: 129}
+        - {x: -66, y: 129}
+        - {x: -128, y: 59}
+        - {x: -128, y: -90}
+        - {x: -45, y: -128}
+        - {x: 4, y: -128}
+        - {x: 12, y: -122}
+        - {x: 15, y: -106}
+        - {x: 15, y: -99}
+        - {x: 13, y: -89}
+        - {x: 11, y: -84}
+        - {x: 20, y: -101}
+        - {x: 40, y: -129}
+        - {x: 74, y: -129}
+        - {x: 104, y: -111}
+        - {x: 128, y: -30}
+        - {x: 128, y: 80}
+    - name: broccoli_sprite_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 171
+        width: 260
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: -87.5}
+        - {x: 41, y: -88.5}
+        - {x: 45, y: -89.5}
+        - {x: 52, y: -96.5}
+        - {x: 84, y: -117.5}
+        - {x: 116, y: -111.5}
+        - {x: 130, y: -106.5}
+        - {x: 130, y: 44.5}
+        - {x: 81, y: 125.5}
+        - {x: -25, y: 125.5}
+        - {x: -88, y: 81.5}
+        - {x: -130, y: 40.5}
+        - {x: -130, y: -109.5}
+        - {x: -57, y: -125.5}
+        - {x: 59, y: -125.5}
+        - {x: 56, y: -98.5}
+        - {x: 46, y: -92.5}
+        - {x: 42, y: -88.5}
+    - name: broccoli_sprite_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 156
+        width: 256
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 77, y: 128.5}
+        - {x: -49, y: 128.5}
+        - {x: -108, y: 116.5}
+        - {x: -128, y: 48.5}
+        - {x: -128, y: -43.5}
+        - {x: -101, y: -72.5}
+        - {x: -14, y: -128.5}
+        - {x: -2, y: -128.5}
+        - {x: 13, y: -124.5}
+        - {x: 15, y: -106.5}
+        - {x: 15, y: -99.5}
+        - {x: 12, y: -87.5}
+        - {x: 11, y: -84.5}
+        - {x: 8, y: -81.5}
+        - {x: 10, y: -83.5}
+        - {x: 13, y: -89.5}
+        - {x: 34, y: -128.5}
+        - {x: 120, y: -128.5}
+        - {x: 128, y: -103.5}
+        - {x: 128, y: 96.5}
+        - {x: 122, y: 112.5}
+    - name: broccoli_sprite_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 144
+        width: 260
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 119, y: 107}
+        - {x: 49, y: 133}
+        - {x: -82, y: 133}
+        - {x: -130, y: 86}
+        - {x: -130, y: -35}
+        - {x: -72, y: -97}
+        - {x: -47, y: -109}
+        - {x: -35, y: -86}
+        - {x: -32, y: -75}
+        - {x: -32, y: -70}
+        - {x: -32, y: -74}
+        - {x: -31, y: -81}
+        - {x: -37, y: -99}
+        - {x: -22, y: -133}
+        - {x: 41, y: -133}
+        - {x: 59, y: -93}
+        - {x: 130, y: -23}
+        - {x: 130, y: 69}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

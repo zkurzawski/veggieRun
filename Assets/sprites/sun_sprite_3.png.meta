@@ -1,0 +1,556 @@
+fileFormatVersion: 2
+guid: f9292fb9849804fe0bff3a8c20bc0ef6
+timeCreated: 1490841113
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sun_sprite_3_0
+    21300002: sun_sprite_3_1
+    21300004: sun_sprite_3_2
+    21300006: sun_sprite_3_3
+    21300008: sun_sprite_3_4
+    21300010: sun_sprite_3_5
+    21300012: sun_sprite_3_6
+    21300014: sun_sprite_3_7
+    21300016: sun_sprite_3_8
+    21300018: sun_sprite_3_9
+    21300020: sun_sprite_3_10
+    21300022: sun_sprite_3_11
+    21300024: sun_sprite_3_12
+    21300026: sun_sprite_3_13
+    21300028: sun_sprite_3_14
+    21300030: sun_sprite_3_15
+    21300032: sun_sprite_3_16
+    21300034: sun_sprite_3_17
+    21300036: sun_sprite_3_18
+    21300038: sun_sprite_3_19
+    21300040: sun_sprite_3_20
+    21300042: sun_sprite_3_21
+    21300044: sun_sprite_3_22
+    21300046: sun_sprite_3_23
+    21300048: sun_sprite_3_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: sun_sprite_3_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1060
+        width: 285
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.8163, y: 62.1037}
+        - {x: -64.8163, y: 44.1037}
+        - {x: -64.8163, y: -40.8963}
+        - {x: -63.8163, y: -42.8963}
+        - {x: -32.8163, y: -61.8963}
+        - {x: 42.1837, y: -61.8963}
+        - {x: 65.1837, y: -40.8963}
+        - {x: 65.1837, y: 33.1037}
+        - {x: 50.1837, y: 62.1037}
+    - name: sun_sprite_3_1
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1064
+        width: 279
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.0074, y: 62.922974}
+        - {x: -63.0074, y: 26.922974}
+        - {x: -63.0074, y: -44.077026}
+        - {x: -48.0074, y: -61.077026}
+        - {x: 42.9926, y: -61.077026}
+        - {x: 64.9926, y: -42.077026}
+        - {x: 64.9926, y: 37.922974}
+        - {x: 56.9926, y: 62.922974}
+    - name: sun_sprite_3_2
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1060
+        width: 281
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.391846, y: 62.1037}
+        - {x: -33.608154, y: 62.1037}
+        - {x: -63.608154, y: 31.103699}
+        - {x: -63.608154, y: -44.8963}
+        - {x: -34.608154, y: -61.8963}
+        - {x: 56.391846, y: -61.8963}
+        - {x: 65.391846, y: -44.8963}
+        - {x: 65.391846, y: 15.103699}
+        - {x: 45.391846, y: 47.1037}
+    - name: sun_sprite_3_3
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 1057
+        width: 286
+        height: 273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.982971, y: 63.239258}
+        - {x: -29.982971, y: 61.239258}
+        - {x: -64.98297, y: 44.239258}
+        - {x: -64.98297, y: -51.760742}
+        - {x: -60.98297, y: -61.760742}
+        - {x: 46.01703, y: -61.760742}
+        - {x: 66.01703, y: -27.760742}
+        - {x: 66.01703, y: 36.239258}
+        - {x: 23.017029, y: 63.239258}
+    - name: sun_sprite_3_4
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 1055
+        width: 287
+        height: 273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.402954, y: 63.32965}
+        - {x: -65.402954, y: 55.32965}
+        - {x: -65.402954, y: -43.67035}
+        - {x: -45.402954, y: -61.67035}
+        - {x: 66.597046, y: -61.67035}
+        - {x: 66.597046, y: 60.32965}
+        - {x: 61.597046, y: 63.32965}
+    - name: sun_sprite_3_5
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1056
+        width: 285
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.91333, y: 63.284454}
+        - {x: -48.91333, y: 46.284454}
+        - {x: -64.91333, y: 7.2844543}
+        - {x: -64.91333, y: -62.715546}
+        - {x: 66.08667, y: -62.715546}
+        - {x: 66.08667, y: 20.284454}
+        - {x: 42.08667, y: 63.284454}
+    - name: sun_sprite_3_6
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 1059
+        width: 278
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.059265, y: 63.648895}
+        - {x: -63.059265, y: 53.648895}
+        - {x: -63.059265, y: -41.351105}
+        - {x: -48.059265, y: -62.351105}
+        - {x: 46.940735, y: -62.351105}
+        - {x: 63.940735, y: -52.351105}
+        - {x: 64.940735, y: -50.351105}
+        - {x: 64.940735, y: 49.648895}
+        - {x: 50.940735, y: 63.648895}
+    - name: sun_sprite_3_7
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 763
+        width: 272
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48.13852, y: 61.523712}
+        - {x: -42.86148, y: 61.523712}
+        - {x: -61.86148, y: 49.523712}
+        - {x: -61.86148, y: -48.476288}
+        - {x: -51.86148, y: -61.476288}
+        - {x: 44.13852, y: -61.476288}
+        - {x: 63.13852, y: -49.476288}
+        - {x: 63.13852, y: 19.523712}
+        - {x: 55.13852, y: 56.523712}
+    - name: sun_sprite_3_8
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 765
+        width: 267
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.68814, y: 61.93335}
+        - {x: -60.68814, y: 38.93335}
+        - {x: -60.68814, y: -49.06665}
+        - {x: -35.68814, y: -60.06665}
+        - {x: 62.31186, y: -60.06665}
+        - {x: 62.31186, y: 35.93335}
+        - {x: 37.31186, y: 61.93335}
+    - name: sun_sprite_3_9
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 760
+        width: 268
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59.15332, y: 62.65927}
+        - {x: -61.15332, y: 61.65927}
+        - {x: -61.15332, y: -19.340729}
+        - {x: -45.15332, y: -61.34073}
+        - {x: 25.84668, y: -61.34073}
+        - {x: 52.84668, y: -48.34073}
+        - {x: 61.84668, y: -24.340729}
+        - {x: 61.84668, y: 25.659271}
+        - {x: 46.84668, y: 62.65927}
+    - name: sun_sprite_3_10
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 759
+        width: 267
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.6185, y: 63.704437}
+        - {x: -52.6185, y: 45.704437}
+        - {x: -60.6185, y: 33.704437}
+        - {x: -60.6185, y: -34.295563}
+        - {x: -25.6185, y: -63.295563}
+        - {x: 53.3815, y: -63.295563}
+        - {x: 55.3815, y: -62.295563}
+        - {x: 62.3815, y: -34.295563}
+        - {x: 62.3815, y: 52.704437}
+        - {x: 32.3815, y: 63.704437}
+    - name: sun_sprite_3_11
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 759
+        width: 263
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.674072, y: 64.20444}
+        - {x: -59.674072, y: 37.204437}
+        - {x: -59.674072, y: -35.795563}
+        - {x: -49.674072, y: -48.795563}
+        - {x: -9.674072, y: -63.795563}
+        - {x: 26.325928, y: -63.795563}
+        - {x: 49.325928, y: -56.795563}
+        - {x: 60.325928, y: -45.795563}
+        - {x: 60.325928, y: 64.20444}
+    - name: sun_sprite_3_12
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 761
+        width: 261
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59.365173, y: 64.114075}
+        - {x: -59.365173, y: -63.885925}
+        - {x: 53.634827, y: -63.885925}
+        - {x: 59.634827, y: -46.885925}
+        - {x: 59.634827, y: 24.114075}
+        - {x: 54.634827, y: 64.114075}
+    - name: sun_sprite_3_13
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 760
+        width: 261
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.330383, y: 64.65927}
+        - {x: -50.330383, y: 58.65927}
+        - {x: -59.330383, y: 36.65927}
+        - {x: -59.330383, y: -27.340729}
+        - {x: -50.330383, y: -49.34073}
+        - {x: -21.330383, y: -63.34073}
+        - {x: 21.669617, y: -63.34073}
+        - {x: 45.669617, y: -53.34073}
+        - {x: 60.669617, y: -22.340729}
+        - {x: 60.669617, y: 45.65927}
+        - {x: 31.669617, y: 64.65927}
+    - name: sun_sprite_3_14
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 459
+        width: 262
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.587406, y: 63.76001}
+        - {x: -56.587406, y: 41.76001}
+        - {x: -59.587406, y: 17.76001}
+        - {x: -59.587406, y: -10.23999}
+        - {x: -38.587406, y: -52.23999}
+        - {x: -14.587406, y: -62.23999}
+        - {x: 33.412594, y: -62.23999}
+        - {x: 61.412594, y: -35.23999}
+        - {x: 61.412594, y: 35.76001}
+        - {x: 34.412594, y: 63.76001}
+    - name: sun_sprite_3_15
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 461
+        width: 262
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.27852, y: 62.169632}
+        - {x: -59.27852, y: 58.169632}
+        - {x: -59.27852, y: -51.830368}
+        - {x: -56.27852, y: -60.830368}
+        - {x: 43.72148, y: -60.830368}
+        - {x: 60.72148, y: -39.830368}
+        - {x: 60.72148, y: 41.169632}
+        - {x: 50.72148, y: 62.169632}
+    - name: sun_sprite_3_16
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 466
+        width: 264
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.21112, y: 61.44371}
+        - {x: -51.78888, y: 61.44371}
+        - {x: -59.78888, y: 39.44371}
+        - {x: -59.78888, y: -45.55629}
+        - {x: -34.78888, y: -59.55629}
+        - {x: 25.21112, y: -59.55629}
+        - {x: 58.21112, y: -34.55629}
+        - {x: 61.21112, y: -28.55629}
+        - {x: 61.21112, y: 30.44371}
+    - name: sun_sprite_3_17
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 466
+        width: 265
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.836304, y: 61.44371}
+        - {x: -20.163696, y: 61.44371}
+        - {x: -42.163696, y: 59.44371}
+        - {x: -60.163696, y: 26.44371}
+        - {x: -60.163696, y: -27.55629}
+        - {x: -40.163696, y: -59.55629}
+        - {x: 38.836304, y: -59.55629}
+        - {x: 60.836304, y: -41.55629}
+        - {x: 60.836304, y: 16.44371}
+        - {x: 44.836304, y: 48.44371}
+    - name: sun_sprite_3_18
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 463
+        width: 271
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.58368, y: 61.57927}
+        - {x: -61.58368, y: 57.57927}
+        - {x: -61.58368, y: -29.42073}
+        - {x: -34.58368, y: -60.42073}
+        - {x: 32.41632, y: -60.42073}
+        - {x: 43.41632, y: -54.42073}
+        - {x: 62.41632, y: -43.42073}
+        - {x: 62.41632, y: 49.57927}
+        - {x: 59.41632, y: 61.57927}
+    - name: sun_sprite_3_19
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 461
+        width: 275
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.68445, y: 61.669632}
+        - {x: -58.68445, y: 58.669632}
+        - {x: -62.68445, y: 44.669632}
+        - {x: -62.68445, y: -24.330368}
+        - {x: -44.68445, y: -60.330368}
+        - {x: 63.31555, y: -60.330368}
+        - {x: 63.31555, y: 47.669632}
+        - {x: 49.31555, y: 61.669632}
+    - name: sun_sprite_3_20
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 461
+        width: 282
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.285156, y: 62.169632}
+        - {x: -64.28516, y: 29.169632}
+        - {x: -64.28516, y: -31.830368}
+        - {x: -30.285156, y: -60.830368}
+        - {x: 31.714844, y: -60.830368}
+        - {x: 49.714844, y: -44.830368}
+        - {x: 64.71484, y: -6.830368}
+        - {x: 64.71484, y: 53.169632}
+        - {x: 44.714844, y: 62.169632}
+    - name: sun_sprite_3_22
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 162
+        width: 273
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60.912594, y: 52.68}
+        - {x: 27.912594, y: 60.68}
+        - {x: -43.087406, y: 60.68}
+        - {x: -57.087406, y: 33.68}
+        - {x: -62.087406, y: 23.68}
+        - {x: -62.087406, y: -37.32}
+        - {x: -28.087406, y: -59.32}
+        - {x: 34.912594, y: -59.32}
+        - {x: 51.912594, y: -37.32}
+        - {x: 63.912594, y: -1.3199997}
+        - {x: 63.912594, y: 17.68}
+    - name: sun_sprite_3_23
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 169
+        width: 268
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.3237, y: 59.86371}
+        - {x: -61.3237, y: 43.86371}
+        - {x: -61.3237, y: -28.136292}
+        - {x: -28.3237, y: -58.13629}
+        - {x: 29.6763, y: -58.13629}
+        - {x: 61.6763, y: -43.13629}
+        - {x: 61.6763, y: 55.86371}
+        - {x: 51.6763, y: 59.86371}
+    - name: sun_sprite_3_24
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 173
+        width: 264
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50.57556, y: 58.68296}
+        - {x: -30.424438, y: 58.68296}
+        - {x: -60.42444, y: 34.68296}
+        - {x: -60.42444, y: -53.31704}
+        - {x: -44.42444, y: -57.31704}
+        - {x: 52.57556, y: -57.31704}
+        - {x: 60.57556, y: -50.31704}
+        - {x: 60.57556, y: 35.68296}
+        - {x: 55.57556, y: 56.68296}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

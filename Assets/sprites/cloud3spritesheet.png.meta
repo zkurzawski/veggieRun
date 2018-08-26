@@ -1,0 +1,582 @@
+fileFormatVersion: 2
+guid: a929bcc6b1380410bba3408f6f025607
+timeCreated: 1491152041
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cloud3spritesheet_0
+    21300002: cloud3spritesheet_1
+    21300004: cloud3spritesheet_2
+    21300006: cloud3spritesheet_3
+    21300008: cloud3spritesheet_4
+    21300010: cloud3spritesheet_5
+    21300012: cloud3spritesheet_6
+    21300014: cloud3spritesheet_7
+    21300016: cloud3spritesheet_8
+    21300018: cloud3spritesheet_9
+    21300020: cloud3spritesheet_10
+    21300022: cloud3spritesheet_11
+    21300024: cloud3spritesheet_12
+    21300026: cloud3spritesheet_13
+    21300028: cloud3spritesheet_14
+    21300030: cloud3spritesheet_15
+    21300032: cloud3spritesheet_16
+    21300034: cloud3spritesheet_17
+    21300036: cloud3spritesheet_18
+    21300038: cloud3spritesheet_19
+    21300040: cloud3spritesheet_20
+    21300042: cloud3spritesheet_21
+    21300044: cloud3spritesheet_22
+    21300046: cloud3spritesheet_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: cloud3spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2520
+        width: 615
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 36.159973}
+        - {x: -60, y: 36.159973}
+        - {x: -96, y: -2.8400269}
+        - {x: -104, y: -22.840027}
+        - {x: -104, y: -81.84003}
+        - {x: 101, y: -81.84003}
+        - {x: 105, y: -63.840027}
+        - {x: 105, y: -20.840027}
+        - {x: 56, y: 27.159973}
+    - name: cloud3spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 2520
+        width: 615
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43.42, y: 40.159973}
+        - {x: -92.58, y: 40.159973}
+        - {x: -101.58, y: -5.840027}
+        - {x: -101.58, y: -79.84003}
+        - {x: 8.419998, y: -79.84003}
+        - {x: 90.42, y: -66.84003}
+        - {x: 106.42, y: -48.840027}
+        - {x: 106.42, y: 2.1599731}
+    - name: cloud3spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 2520
+        width: 615
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68.66, y: 38.159973}
+        - {x: -100.66, y: 5.159973}
+        - {x: -100.66, y: -81.84003}
+        - {x: 7.3399963, y: -81.84003}
+        - {x: 106.34, y: -59.840027}
+        - {x: 106.34, y: 9.159973}
+        - {x: 59.339996, y: 38.159973}
+    - name: cloud3spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 2520
+        width: 615
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.73999, y: 48.159973}
+        - {x: -99.73999, y: 16.159973}
+        - {x: -99.73999, y: -72.84003}
+        - {x: 89.26001, y: -72.84003}
+        - {x: 106.26001, y: -48.840027}
+        - {x: 106.26001, y: 25.159973}
+        - {x: 72.26001, y: 48.159973}
+      - - {x: -104.73999, y: -42.840027}
+        - {x: -101.73999, y: -41.840027}
+        - {x: -101.73999, y: -26.840027}
+        - {x: -103.73999, y: -24.840027}
+        - {x: -104.73999, y: -24.840027}
+    - name: cloud3spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2040
+        width: 615
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104, y: 51.820007}
+        - {x: -104, y: -59.179993}
+        - {x: -97, y: -69.17999}
+        - {x: -4, y: -69.17999}
+        - {x: 92, y: -59.179993}
+        - {x: 105, y: -54.179993}
+        - {x: 105, y: 2.8200073}
+        - {x: 83, y: 51.820007}
+      - - {x: -86, y: 82.82001}
+        - {x: -85, y: 79.82001}
+        - {x: -72, y: 79.82001}
+        - {x: -70, y: 81.82001}
+        - {x: -70, y: 82.82001}
+    - name: cloud3spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 2040
+        width: 615
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.58, y: 54.820007}
+        - {x: -85.58, y: 39.820007}
+        - {x: -101.58, y: -11.179993}
+        - {x: -101.58, y: -62.179993}
+        - {x: -98.58, y: -65.17999}
+        - {x: 45.42, y: -65.17999}
+        - {x: 106.42, y: -42.179993}
+        - {x: 106.42, y: 28.820007}
+        - {x: 41.42, y: 54.820007}
+    - name: cloud3spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 2040
+        width: 615
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.34, y: 58.820007}
+        - {x: -76.66, y: 58.820007}
+        - {x: -100.66, y: 40.820007}
+        - {x: -100.66, y: -61.179993}
+        - {x: 94.34, y: -61.179993}
+        - {x: 106.34, y: -49.179993}
+        - {x: 106.34, y: 2.8200073}
+        - {x: 72.34, y: 55.820007}
+    - name: cloud3spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 2040
+        width: 615
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -89.73999, y: 62.820007}
+        - {x: -99.73999, y: 59.820007}
+        - {x: -99.73999, y: -58.179993}
+        - {x: 63.26001, y: -58.179993}
+        - {x: 106.26001, y: -46.179993}
+        - {x: 106.26001, y: 41.820007}
+        - {x: 95.26001, y: 62.820007}
+      - - {x: -104.73999, y: -22.179993}
+        - {x: -101.73999, y: -21.179993}
+        - {x: -101.73999, y: -6.1799927}
+        - {x: -103.73999, y: -4.1799927}
+        - {x: -104.73999, y: -4.1799927}
+    - name: cloud3spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1560
+        width: 615
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 66.97998}
+        - {x: -61, y: 66.97998}
+        - {x: -88, y: 40.97998}
+        - {x: -104, y: -11.02002}
+        - {x: -104, y: -49.02002}
+        - {x: -93, y: -54.02002}
+        - {x: -25, y: -54.02002}
+        - {x: -4, y: -50.02002}
+        - {x: 105, y: -33.02002}
+        - {x: 105, y: 33.97998}
+    - name: cloud3spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1560
+        width: 615
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.419998, y: 70.97998}
+        - {x: -62.58, y: 70.97998}
+        - {x: -101.58, y: 17.97998}
+        - {x: -101.58, y: -50.02002}
+        - {x: 72.42, y: -50.02002}
+        - {x: 99.42, y: -47.02002}
+        - {x: 106.42, y: -28.02002}
+        - {x: 106.42, y: 24.97998}
+        - {x: 68.42, y: 57.97998}
+    - name: cloud3spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1560
+        width: 615
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.339996, y: 73.97998}
+        - {x: -67.66, y: 73.97998}
+        - {x: -100.66, y: 18.97998}
+        - {x: -100.66, y: -46.02002}
+        - {x: 44.339996, y: -46.02002}
+        - {x: 101.34, y: -40.02002}
+        - {x: 106.34, y: -19.02002}
+        - {x: 106.34, y: 25.97998}
+        - {x: 68.34, y: 61.97998}
+    - name: cloud3spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 1560
+        width: 615
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.26001, y: 77.97998}
+        - {x: -64.73999, y: 77.97998}
+        - {x: -99.73999, y: 33.97998}
+        - {x: -99.73999, y: -42.02002}
+        - {x: 61.26001, y: -42.02002}
+        - {x: 106.26001, y: -34.02002}
+        - {x: 106.26001, y: 26.97998}
+        - {x: 51.26001, y: 71.97998}
+      - - {x: -104.73999, y: -7.0200195}
+        - {x: -101.73999, y: -6.0200195}
+        - {x: -101.73999, y: 8.97998}
+        - {x: -103.73999, y: 10.97998}
+        - {x: -104.73999, y: 10.97998}
+    - name: cloud3spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 615
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 82.139984}
+        - {x: -104, y: 21.139984}
+        - {x: -104, y: -37.860016}
+        - {x: 47, y: -37.860016}
+        - {x: 97, y: -32.860016}
+        - {x: 105, y: -22.860016}
+        - {x: 105, y: 47.139984}
+        - {x: 49, y: 82.139984}
+    - name: cloud3spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1080
+        width: 615
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.58, y: 78.139984}
+        - {x: -91.58, y: 69.139984}
+        - {x: -101.58, y: 24.139984}
+        - {x: -101.58, y: -41.860016}
+        - {x: 44.42, y: -41.860016}
+        - {x: 92.42, y: -34.860016}
+        - {x: 106.42, y: -15.860016}
+        - {x: 106.42, y: 40.139984}
+        - {x: 48.42, y: 78.139984}
+    - name: cloud3spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1080
+        width: 615
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69.66, y: 74.139984}
+        - {x: -100.66, y: 20.139984}
+        - {x: -100.66, y: -45.860016}
+        - {x: 106.34, y: -45.860016}
+        - {x: 106.34, y: 49.139984}
+        - {x: 40.339996, y: 74.139984}
+    - name: cloud3spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 1080
+        width: 615
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76.73999, y: 71.139984}
+        - {x: -99.73999, y: 10.139984}
+        - {x: -99.73999, y: -49.860016}
+        - {x: 106.26001, y: -49.860016}
+        - {x: 106.26001, y: 43.139984}
+        - {x: 75.26001, y: 71.139984}
+      - - {x: -104.73999, y: -4.860016}
+        - {x: -101.73999, y: -3.8600159}
+        - {x: -101.73999, y: 8.139984}
+        - {x: -103.73999, y: 10.139984}
+        - {x: -104.73999, y: 10.139984}
+    - name: cloud3spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 615
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62, y: 49.300003}
+        - {x: 13, y: 67.3}
+        - {x: -50, y: 67.3}
+        - {x: -81, y: 59.300003}
+        - {x: -104, y: -0.69999695}
+        - {x: -104, y: -47.699997}
+        - {x: -96, y: -52.699997}
+        - {x: 31, y: -52.699997}
+        - {x: 44, y: -49.699997}
+        - {x: 105, y: -26.699997}
+        - {x: 105, y: 12.300003}
+    - name: cloud3spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 600
+        width: 615
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.58, y: 63.300003}
+        - {x: -101.58, y: 12.300003}
+        - {x: -101.58, y: -56.699997}
+        - {x: 25.419998, y: -56.699997}
+        - {x: 97.42, y: -47.699997}
+        - {x: 106.42, y: -39.699997}
+        - {x: 106.42, y: 12.300003}
+        - {x: 66.42, y: 63.300003}
+    - name: cloud3spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 600
+        width: 615
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.660004, y: 60.300003}
+        - {x: -86.66, y: 39.300003}
+        - {x: -100.66, y: -11.699997}
+        - {x: -100.66, y: -60.699997}
+        - {x: 54.339996, y: -60.699997}
+        - {x: 96.34, y: -55.699997}
+        - {x: 106.34, y: -41.699997}
+        - {x: 106.34, y: 26.300003}
+        - {x: 35.339996, y: 60.300003}
+    - name: cloud3spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 600
+        width: 615
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.26001, y: 56.300003}
+        - {x: -65.73999, y: 56.300003}
+        - {x: -99.73999, y: -3.699997}
+        - {x: -99.73999, y: -63.699997}
+        - {x: -96.73999, y: -64.7}
+        - {x: 22.26001, y: -64.7}
+        - {x: 96.26001, y: -51.699997}
+        - {x: 106.26001, y: -45.699997}
+        - {x: 106.26001, y: 20.300003}
+      - - {x: -104.73999, y: -20.699997}
+        - {x: -101.73999, y: -19.699997}
+        - {x: -101.73999, y: -5.699997}
+        - {x: -103.73999, y: -3.699997}
+        - {x: -104.73999, y: -3.699997}
+    - name: cloud3spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 615
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 55, y: 36.46}
+        - {x: 11, y: 52.46}
+        - {x: -68, y: 52.46}
+        - {x: -104, y: -14.540001}
+        - {x: -104, y: -67.54}
+        - {x: 18, y: -67.54}
+        - {x: 89, y: -58.54}
+        - {x: 105, y: -41.54}
+        - {x: 105, y: -8.540001}
+        - {x: 99, y: 3.459999}
+    - name: cloud3spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 120
+        width: 615
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -101.58, y: 48.46}
+        - {x: -101.58, y: -71.54}
+        - {x: 65.42, y: -71.54}
+        - {x: 106.42, y: -54.54}
+        - {x: 106.42, y: -3.540001}
+        - {x: 48.42, y: 48.46}
+    - name: cloud3spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 120
+        width: 615
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 69.34, y: 40.46}
+        - {x: 57.339996, y: 45.46}
+        - {x: -77.66, y: 45.46}
+        - {x: -100.66, y: 1.4599991}
+        - {x: -100.66, y: -75.54}
+        - {x: 19.339996, y: -75.54}
+        - {x: 96.34, y: -63.54}
+        - {x: 106.34, y: -55.54}
+        - {x: 106.34, y: -6.540001}
+        - {x: 102.34, y: 6.459999}
+    - name: cloud3spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 120
+        width: 615
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.26001, y: 41.46}
+        - {x: -52.73999, y: 41.46}
+        - {x: -87.73999, y: 29.46}
+        - {x: -99.73999, y: -25.54}
+        - {x: -99.73999, y: -75.54}
+        - {x: -96.73999, y: -78.54}
+        - {x: 2.2600098, y: -78.54}
+        - {x: 105.26001, y: -61.54}
+        - {x: 106.26001, y: -61.54}
+        - {x: 106.26001, y: -10.540001}
+        - {x: 88.26001, y: 27.46}
+      - - {x: -104.73999, y: -34.54}
+        - {x: -101.73999, y: -33.54}
+        - {x: -101.73999, y: -21.54}
+        - {x: -103.73999, y: -19.54}
+        - {x: -104.73999, y: -19.54}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,343 @@
+fileFormatVersion: 2
+guid: a50b94ebb85774002b7914d72ba78031
+timeCreated: 1489889155
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: corn_sprite_sheet_0
+    21300002: corn_sprite_sheet_1
+    21300004: corn_sprite_sheet_2
+    21300006: corn_sprite_sheet_3
+    21300008: corn_sprite_sheet_4
+    21300010: corn_sprite_sheet_5
+    21300012: corn_sprite_sheet_6
+    21300014: corn_sprite_sheet_7
+    21300016: corn_sprite_sheet_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: corn_sprite_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1683
+        width: 302
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -114, y: 117}
+        - {x: -142, y: 33}
+        - {x: -125, y: 33}
+        - {x: -119, y: 36}
+        - {x: -151, y: -34}
+        - {x: -151, y: -69}
+        - {x: -145, y: -78}
+        - {x: -140, y: -80}
+        - {x: -138, y: -83}
+        - {x: -133, y: -85}
+        - {x: -136, y: -84}
+        - {x: -140, y: -81}
+        - {x: -142, y: -81}
+        - {x: -151, y: -87}
+        - {x: -151, y: -99}
+        - {x: -145, y: -103}
+        - {x: -105, y: -100}
+        - {x: -101, y: -102}
+        - {x: -103, y: -101}
+        - {x: -114, y: -101}
+        - {x: -124, y: -106}
+        - {x: -124, y: -111}
+        - {x: -116, y: -117}
+        - {x: 134, y: -117}
+        - {x: 151, y: -115}
+        - {x: 151, y: 106}
+        - {x: 117, y: 117}
+    - name: corn_sprite_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1690
+        width: 324
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 162, y: 29}
+        - {x: 151, y: 76}
+        - {x: 18, y: 123}
+        - {x: -61, y: 123}
+        - {x: -88, y: 85}
+        - {x: -91, y: 68}
+        - {x: -68, y: 70}
+        - {x: -141, y: 7}
+        - {x: -149, y: -2}
+        - {x: -162, y: -20}
+        - {x: -162, y: -44}
+        - {x: -129, y: -96}
+        - {x: -15, y: -123}
+        - {x: 134, y: -123}
+        - {x: 141, y: -99}
+        - {x: 114, y: -77}
+        - {x: 162, y: -42}
+    - name: corn_sprite_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1652
+        width: 308
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 154, y: -68.5}
+        - {x: 154, y: 36.5}
+        - {x: 77, y: 93.5}
+        - {x: 47, y: 146.5}
+        - {x: -4, y: 146.5}
+        - {x: -47, y: 127.5}
+        - {x: -83, y: 62.5}
+        - {x: -119, y: 96.5}
+        - {x: -154, y: 61.5}
+        - {x: -154, y: 32.5}
+        - {x: -134, y: -13.5}
+        - {x: -31, y: -99.5}
+        - {x: 32, y: -142.5}
+        - {x: 49, y: -146.5}
+        - {x: 100, y: -146.5}
+        - {x: 110, y: -126.5}
+        - {x: 120, y: -86.5}
+        - {x: 142, y: -94.5}
+    - name: corn_sprite_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1288
+        width: 326
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 124}
+        - {x: -55, y: 124}
+        - {x: -75, y: 106}
+        - {x: -90, y: 71}
+        - {x: -83, y: 69}
+        - {x: -77, y: 71}
+        - {x: -150, y: 8}
+        - {x: -143, y: -1}
+        - {x: -138, y: -7}
+        - {x: -143, y: -7}
+        - {x: -158, y: -10}
+        - {x: -163, y: -24}
+        - {x: -163, y: -52}
+        - {x: -133, y: -103}
+        - {x: -9, y: -124}
+        - {x: 163, y: -124}
+        - {x: 163, y: 31}
+        - {x: 153, y: 70}
+    - name: corn_sprite_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1282
+        width: 304
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 137, y: 23}
+        - {x: 152, y: 30}
+        - {x: 152, y: 39}
+        - {x: 130, y: 79}
+        - {x: 84, y: 115}
+        - {x: 75, y: 118}
+        - {x: -30, y: 118}
+        - {x: -100, y: 111}
+        - {x: -114, y: 107}
+        - {x: -138, y: 37}
+        - {x: -124, y: 28}
+        - {x: -151, y: -49}
+        - {x: -152, y: -57}
+        - {x: -152, y: -100}
+        - {x: -126, y: -118}
+        - {x: 31, y: -118}
+        - {x: 152, y: -59}
+        - {x: 152, y: -14}
+        - {x: 90, y: 5}
+    - name: corn_sprite_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1248
+        width: 297
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 148.5, y: 37}
+        - {x: 143.5, y: 49}
+        - {x: 124.5, y: 50}
+        - {x: 61.5, y: 31}
+        - {x: 46.5, y: 25}
+        - {x: 105.5, y: 82}
+        - {x: 121.5, y: 116}
+        - {x: 44.5, y: 144}
+        - {x: -64.5, y: 144}
+        - {x: -148.5, y: 66}
+        - {x: -148.5, y: -12}
+        - {x: -141.5, y: -19}
+        - {x: -134.5, y: -14}
+        - {x: -131.5, y: -10}
+        - {x: -139.5, y: -95}
+        - {x: -130.5, y: -134}
+        - {x: -108.5, y: -144}
+        - {x: -40.5, y: -144}
+        - {x: -34.5, y: -143}
+        - {x: 81.5, y: -62}
+        - {x: 148.5, y: 13}
+    - name: corn_sprite_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 823
+        width: 280
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 110, y: 119.5}
+        - {x: 79, y: 158.5}
+        - {x: 18, y: 158.5}
+        - {x: 2, y: 132.5}
+        - {x: -4, y: 114.5}
+        - {x: -22, y: 148.5}
+        - {x: -46, y: 153.5}
+        - {x: -55, y: 135.5}
+        - {x: -91, y: 77.5}
+        - {x: -140, y: 29.5}
+        - {x: -140, y: -47.5}
+        - {x: -106, y: -85.5}
+        - {x: -82, y: -85.5}
+        - {x: -49, y: -158.5}
+        - {x: 20, y: -158.5}
+        - {x: 30, y: -151.5}
+        - {x: 124, y: -11.5}
+        - {x: 140, y: 64.5}
+        - {x: 140, y: 109.5}
+    - name: corn_sprite_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 848
+        width: 300
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 123, y: 55}
+        - {x: 48, y: 46}
+        - {x: 106, y: 88}
+        - {x: 121, y: 114}
+        - {x: 51, y: 140}
+        - {x: 42, y: 144}
+        - {x: -14, y: 144}
+        - {x: -83, y: 95}
+        - {x: -150, y: 67}
+        - {x: -150, y: 8}
+        - {x: -146, y: -7}
+        - {x: -134, y: -19}
+        - {x: -101, y: -74}
+        - {x: -129, y: -102}
+        - {x: -115, y: -144}
+        - {x: -27, y: -144}
+        - {x: 43, y: -103}
+        - {x: 150, y: 6}
+        - {x: 150, y: 38}
+    - name: corn_sprite_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 880
+        width: 304
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 136, y: -18}
+        - {x: 52, y: 1}
+        - {x: 145, y: 25}
+        - {x: 152, y: 37}
+        - {x: 152, y: 63}
+        - {x: 87, y: 120}
+        - {x: 41, y: 120}
+        - {x: -35, y: 101}
+        - {x: -66, y: 120}
+        - {x: -90, y: 120}
+        - {x: -148, y: 76}
+        - {x: -122, y: -32}
+        - {x: -152, y: -48}
+        - {x: -152, y: -97}
+        - {x: -149, y: -103}
+        - {x: -110, y: -120}
+        - {x: -44, y: -120}
+        - {x: 15, y: -118}
+        - {x: 152, y: -62}
+        - {x: 152, y: -33}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

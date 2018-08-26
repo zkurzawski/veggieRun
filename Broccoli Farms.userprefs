@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/BackgroundMovement.cs">
+    <Files>
+      <File FileName="Assets/scripts/AssetSpawner.cs" Line="18" Column="38" />
+      <File FileName="Assets/scripts/BackgroundMovement.cs" Line="24" Column="1" />
+      <File FileName="Assets/scripts/BackgroundSpawner.cs" Line="19" Column="2" />
+      <File FileName="Assets/scripts/CameraControl.cs" Line="4" Column="66" />
+      <File FileName="Assets/scripts/Destructor.cs" Line="1" Column="14" />
+      <File FileName="Assets/scripts/FoodController.cs" Line="24" Column="61" />
+      <File FileName="Assets/scripts/MusicPlayer.cs" Line="12" Column="2" />
+      <File FileName="Assets/scripts/PlatformSpawner.cs" Line="21" Column="58" />
+      <File FileName="Assets/scripts/SceneManager.cs" Line="4" Column="42" />
+      <File FileName="Assets/scripts/TeethController.cs" Line="8" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
